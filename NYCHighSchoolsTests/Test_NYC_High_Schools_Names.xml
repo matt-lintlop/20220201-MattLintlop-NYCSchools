@@ -1,0 +1,166 @@
+<response>
+<row>
+<row _id="1" _uuid="5192017A-B475-4030-A7D5-916FE4DF9396" _position="1" _address="https://data.cityofnewyork.us/resource/s3k6-pzi2/1">
+<dbn>31R455</dbn>
+<school_name>Tottenville High School</school_name>
+<boro>R</boro>
+<overview_paragraph>
+Tottenville High School has long been recognized as a school of academic excellence. We pride ourselves in providing a safe environment for our students, offering a host of exciting and challenging programs, and an array of extracurricular activities. Our dedicated faculty is committed to setting high expectations that allow students to flourish. Our programs emphasize college and career preparedness and are aligned with Common Core Learning Standards. We have created a positive, healthy, and harmonious environment where every student has the opportunity to succeed and grow intellectually, emotionally, and socially.
+</overview_paragraph>
+<school_10th_seats>1</school_10th_seats>
+<academicopportunities1>Institute Programs: Science, Classics/Humanities</academicopportunities1>
+<academicopportunities2>Honors Program for grades 9-12</academicopportunities2>
+<academicopportunities3>ROTC Program</academicopportunities3>
+<academicopportunities4>CTE Programs</academicopportunities4>
+<academicopportunities5>Visual and Performing Arts Programs</academicopportunities5>
+<ell_programs>English as a New Language</ell_programs>
+<language_classes>Italian, Latin, Spanish</language_classes>
+<advancedplacement_courses>
+AP Biology, AP Calculus, AP Chemistry, AP English, AP Physics, AP Psychology, AP US Government and Politics, AP US History, AP World History
+</advancedplacement_courses>
+<diplomaendorsements>CTE, Math, Science</diplomaendorsements>
+<neighborhood>Annadale-Huguenot-Princes Bay</neighborhood>
+<shared_space>Yes</shared_space>
+<building_code>R455</building_code>
+<location>
+100 Luten Avenue, Staten Island NY 10312 (40.528152, -74.193431)
+</location>
+<phone_number>718-668-8800</phone_number>
+<fax_number>718-317-0962</fax_number>
+<school_email>31R455@schools.nyc.gov</school_email>
+<website>www.tottenvillehs.net</website>
+<subway>SIR to Huguenot</subway>
+<bus>S55, S56, S59, S78, X17, X17J, X19</bus>
+<grades2018>9-12</grades2018>
+<finalgrades>9-12</finalgrades>
+<total_students>3907</total_students>
+<start_time>8am</start_time>
+<end_time>2:20pm</end_time>
+<addtl_info1>
+College Trips; Community Service Expected; Health Center; Internships; Online Grading System; Saturday Programs; Student/Parent Orientation; Summer Orientation
+</addtl_info1>
+<psal_sports_boys>
+Baseball, Basketball, Bowling, Cross Country, Fencing, Football, Gymnastics, Handball, Indoor Track, Lacrosse, Outdoor Track, Soccer, Swimming, Table Tennis, Tennis, Volleyball, Wrestling
+</psal_sports_boys>
+<psal_sports_girls>
+Badminton, Basketball, Bowling, Cross Country, Fencing, Flag Football, Golf, Gymnastics, Handball, Indoor Track, Lacrosse, Outdoor Track, Soccer, Softball, Swimming, Table Tennis, Tennis, Volleyball
+</psal_sports_girls>
+<psal_sports_coed>Golf</psal_sports_coed>
+<school_sports>Cheerleading, Dance Team</school_sports>
+<graduation_rate>0.860000014</graduation_rate>
+<attendance_rate>0.910000026</attendance_rate>
+<pct_stu_enough_variety>0.850000024</pct_stu_enough_variety>
+<college_career_rate>0.689999998</college_career_rate>
+<pct_stu_safe>0.800000012</pct_stu_safe>
+<school_accessibility_description>1</school_accessibility_description>
+<prgdesc1>
+The Marine Corps Junior Reserve OfficersÂ’ Training Corps (JROTC) program is co-sponsored by the Department of Education and the US Marine Corps. The curriculum is divided into three areas: academic, military, and physical fitness and is designed to provide students with a sense of leadership and self-discipline.
+</prgdesc1>
+<prgdesc2>
+This program is designed to challenge those students who are not only strong in the humanities and language areas, but also interested in pursuing careers in these or related areas.
+</prgdesc2>
+<prgdesc3>
+This program is designed to challenge students who are strong in math and science and are interested in pursuing careers in these or related areas. The program is rigorous and requires a serious commitment. In addition to fulfilling all high school requirements, students take a minimum of two college-level science classes and one year of college-level math. Hands-on and computer research in science is required, leading to opportunities for both supervised and independent research.
+</prgdesc3>
+<prgdesc4>Academic Comprehensive Program</prgdesc4>
+<requirement1_2>
+Course Grades: English (90-100), Math (90-100), Social Studies (92-100), Science (91-100)
+</requirement1_2>
+<requirement1_3>
+Course Grades: English (92-100), Math (93-100), Social Studies (94-100), Science (93-100)
+</requirement1_3>
+<requirement2_2>Course Grade: Language Other Than English</requirement2_2>
+<requirement2_3>Course Grade: Language Other Than English</requirement2_3>
+<requirement3_2>
+Standardized Test Scores: English Language Arts (3.3-4.5), Math (3.3-4.5)
+</requirement3_2>
+<requirement3_3>
+Standardized Test Scores: English Language Arts (3.3-4.5), Math (4.0-4.5)
+</requirement3_3>
+<requirement4_2>Attendance and Punctuality</requirement4_2>
+<requirement4_3>Attendance and Punctuality</requirement4_3>
+<offer_rate1>Â—100% of offers went to this group</offer_rate1>
+<offer_rate2>Â—100% of offers went to this group</offer_rate2>
+<offer_rate3>Â—100% of offers went to this group</offer_rate3>
+<program1>
+Marine Corps Junior Reserve OfficersÂ’ Training Corps
+</program1>
+<program2>Classics Institute</program2>
+<program3>Science Institute</program3>
+<program4>Zoned</program4>
+<code1>R30B</code1>
+<code2>R30C</code2>
+<code3>R30S</code3>
+<code4>R30Z</code4>
+<interest1>JROTC</interest1>
+<interest2>Humanities & Interdisciplinary</interest2>
+<interest3>Science & Math</interest3>
+<interest4>Zoned</interest4>
+<method1>Ed. Opt.</method1>
+<method2>Screened</method2>
+<method3>Screened</method3>
+<method4>Zoned Guarantee</method4>
+<seats9ge1>55</seats9ge1>
+<seats9ge2>55</seats9ge2>
+<seats9ge3>55</seats9ge3>
+<seats9ge4>N/A</seats9ge4>
+<grade9gefilledflag1>Y</grade9gefilledflag1>
+<grade9gefilledflag2>Y</grade9gefilledflag2>
+<grade9gefilledflag3>Y</grade9gefilledflag3>
+<grade9gefilledflag4>N/A</grade9gefilledflag4>
+<grade9geapplicants1>190</grade9geapplicants1>
+<grade9geapplicants2>736</grade9geapplicants2>
+<grade9geapplicants3>955</grade9geapplicants3>
+<grade9geapplicants4>N/A</grade9geapplicants4>
+<seats9swd1>13</seats9swd1>
+<seats9swd2>13</seats9swd2>
+<seats9swd3>13</seats9swd3>
+<seats9swd4>N/A</seats9swd4>
+<grade9swdfilledflag1>Y</grade9swdfilledflag1>
+<grade9swdfilledflag2>N</grade9swdfilledflag2>
+<grade9swdfilledflag3>N</grade9swdfilledflag3>
+<grade9swdfilledflag4>N/A</grade9swdfilledflag4>
+<grade9swdapplicants1>66</grade9swdapplicants1>
+<grade9swdapplicants2>23</grade9swdapplicants2>
+<grade9swdapplicants3>29</grade9swdapplicants3>
+<grade9swdapplicants4>N/A</grade9swdapplicants4>
+<seats101>No</seats101>
+<seats102>No</seats102>
+<seats103>No</seats103>
+<seats104>Yes</seats104>
+<admissionspriority11>Priority to Staten Island students or residents</admissionspriority11>
+<admissionspriority12>Priority to Staten Island students or residents</admissionspriority12>
+<admissionspriority13>Priority to Staten Island students or residents</admissionspriority13>
+<admissionspriority14>
+Guaranteed offer to students who apply and live in the zoned area
+</admissionspriority14>
+<admissionspriority21>Then to New York City residents</admissionspriority21>
+<admissionspriority22>Then to New York City residents</admissionspriority22>
+<admissionspriority23>Then to New York City residents</admissionspriority23>
+<grade9geapplicantsperseat1>3</grade9geapplicantsperseat1>
+<grade9geapplicantsperseat2>13</grade9geapplicantsperseat2>
+<grade9geapplicantsperseat3>17</grade9geapplicantsperseat3>
+<grade9geapplicantsperseat4>N/A</grade9geapplicantsperseat4>
+<grade9swdapplicantsperseat1>5</grade9swdapplicantsperseat1>
+<grade9swdapplicantsperseat2>2</grade9swdapplicantsperseat2>
+<grade9swdapplicantsperseat3>2</grade9swdapplicantsperseat3>
+<grade9swdapplicantsperseat4>N/A</grade9swdapplicantsperseat4>
+<primary_address_line_1>100 Luten Avenue</primary_address_line_1>
+<city>Staten Island</city>
+<zip>10312</zip>
+<state_code>NY</state_code>
+<latitude>40.52815</latitude>
+<longitude>-74.1934</longitude>
+<community_board>3</community_board>
+<council_district>51</council_district>
+<census_tract>198</census_tract>
+<bin>5082634</bin>
+<bbl>5066130001</bbl>
+<nta>Annadale-Huguenot-Prince's Bay-Eltingville</nta>
+<borough>STATEN IS</borough>
+</row>
+<row _id="2" _uuid="2B74FD5E-CCA2-4635-92E0-922954B90909" _position="2" _address="https://data.cityofnewyork.us/resource/s3k6-pzi2/2">
+<dbn>30Q450</dbn>
+</row>
+</row>
+</response>
